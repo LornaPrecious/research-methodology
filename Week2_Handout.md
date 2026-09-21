@@ -21,7 +21,7 @@ Truth or Hype: What evidence supports AI and Big Data's contribution to drug dis
 
 **Why it interests us:** …
 
-There has been endless headlines on AI's contribution to different sectors especially health. This has led to a windening gap between fact and fiction, with an increase in promotional claims which don't correlate with genuine technical progress. Our topic seeks to evaluate whether these modern technologies such as AI and Big data are actually advancing general drug discovery or is it just hype as seen in multiple other industries. 
+There has been endless headlines on AI's contribution to different sectors especially health. This has led to a windening gap between fact and fiction, with an increase in promotional claims that don't correlate with genuine technical progress. Our topic seeks to evaluate whether these technologies are actually advancing general drug discovery or is it just hype as seen in multiple other industries. 
 
 ## Search log
 
