@@ -11,11 +11,17 @@ These are parts of the existing course grades. The examples below are formats fo
 
 ## Working topic
 
-**Team members:** …
+**Team members:**
 
-**Working topic:** …
+Precious Lorna Mwendwa Kiunga
+
+**Working topic:**
+
+Truth or Hype: What evidence supports AI and Big Data's contribution to drug discovery?
 
 **Why it interests us:** …
+
+There has been endless headlines on AI's contribution to different sectors especially health. This has led to a windening gap between fact and fiction, with an increase in promotional claims which don't correlate with genuine technical progress. Our topic seeks to evaluate whether these modern technologies such as AI and Big data are actually advancing general drug discovery or is it just hype as seen in multiple other industries. 
 
 ## Search log
 
@@ -23,7 +29,7 @@ Record the source, date, exact query, any filters and why you kept or set aside 
 
 | Date and source | Query or discovery route | Filters | Decision and reason | Paper link or identifier |
 |---|---|---|---|---|
-| … | … | … | … | … |
+|Google Scholar | "AI and Big Data in drug discovery" | Set the publish year as 2022, then 2025 to ensure I get recent articles | ... | https://doi.org/10.1021/acsomega.5c00549 |
 
 **Illustrative examples, not actual search results:**
 
@@ -39,7 +45,7 @@ Suggested starting target: **one paper per team member**, including an overview 
 
 | Full reference and DOI or stable link | Relevance to our topic | Method or evidence noted | Reading status |
 |---|---|---|---|
-| … | … | … | Screened / partly read / read in full |
+| https://doi.org/10.1021/acsomega.5c00549 | … | … | Screened / partly read / read in full |
 
 
 ## Contribution log
@@ -48,7 +54,7 @@ Use an entry for **every team member**. Link to evidence in the shared document 
 
 | Member | Work completed | Evidence | Next responsibility |
 |---|---|---|---|
-| … | … | … | … |
+| Precious Kiunga | … | … | … |
 
 **Illustrative entries:**
 
