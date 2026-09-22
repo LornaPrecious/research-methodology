@@ -50,7 +50,7 @@ Suggested starting target: **one paper per team member**, including an overview 
 
 | Full reference and DOI or stable link | Relevance to our topic | Method or evidence noted | Reading status |
 |---|---|---|---|
-| https://doi.org/10.1021/acsomega.5c00549 | The paper examines a wide range of AI techniques used in the drug discovery pipeline, as well as their advantages, limitations and challenges. This offers a well rounded analyis and provides the evidence needed to answer the research topic's key concern. | … | Screened
+| https://doi.org/10.1021/acsomega.5c00549 | The paper examines a wide range of AI techniques used in the drug discovery pipeline, as well as their advantages, limitations and challenges. This offers a well rounded analysis and provides the evidence needed to answer the research topic's key concern. | … | Screened
 |https://doi.org/10.1038/s41573-026-01496-2 |...|...|partly read |
 | https://doi.org/10.1111/bcp.15930 |...|...|partly read|
 
