@@ -69,7 +69,7 @@ Use an entry for **every team member**. Link to evidence in the shared document 
 | Member | Work completed | Evidence | Next responsibility |
 |---|---|---|---|
 | Precious Kiunga| scanned paper 1|... | Research in the field of AI and Big data in drug discovery|
-|Yousef Abdah| scanned paper 2 and 3  | ...| Research in the field of machine learning in drug discovery |
+|Yousef Abdah| partly read  2 and 3  | ...| Research in the field of machine learning in drug discovery |
 
 Add rows for all members of your actual team. These examples do not prescribe fixed roles.
 
