@@ -29,7 +29,7 @@ Record the source, date, exact query, any filters and why you kept or set aside 
 
 | Date and source | Query or discovery route | Filters | Decision and reason | Paper link or identifier |
 |---|---|---|---|---|
-|Google Scholar | "AI and Big Data in drug discovery" | Set the publish year as 2022, then 2025 to ensure I get recent articles | ... | https://doi.org/10.1021/acsomega.5c00549 |
+|Google Scholar | "AI and Big Data in drug discovery" | I set the publish year to 2022, then 2025 to ensure I get recent results | ... | https://doi.org/10.1021/acsomega.5c00549 |
 
 **Illustrative examples, not actual search results:**
 
@@ -45,8 +45,7 @@ Suggested starting target: **one paper per team member**, including an overview 
 
 | Full reference and DOI or stable link | Relevance to our topic | Method or evidence noted | Reading status |
 |---|---|---|---|
-| https://doi.org/10.1021/acsomega.5c00549 | … | … | Screened / partly read / read in full |
-
+| https://doi.org/10.1021/acsomega.5c00549 | The paper examines a wide range of AI techniques used in the drug discovery pipeline, as well as their advantages, limitations and challenges. This offers a well rounded analyis and provides the evidence needed to answer the research topic's key concern. | … | Screened / partly read / read in full |
 
 ## Contribution log
 
@@ -54,7 +53,7 @@ Use an entry for **every team member**. Link to evidence in the shared document 
 
 | Member | Work completed | Evidence | Next responsibility |
 |---|---|---|---|
-| Precious Kiunga | … | … | … |
+| Precious Kiunga | Topic definition and justification. | Git push 'log' | … |
 
 **Illustrative entries:**
 
