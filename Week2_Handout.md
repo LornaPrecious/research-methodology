@@ -13,11 +13,12 @@ These are parts of the existing course grades. The examples below are formats fo
 
 **Team members:**
 
-Precious Lorna Mwendwa Kiunga
+Precious Lorna Mwendwa Kiunga |
+Yousef Abdah |
 
 **Working topic:**
 
-Truth or Hype: What evidence supports AI and Big Data's contribution to drug discovery?
+Truth or Hype: What evidence supports AI , Machin Learning and Big Data's contribution to drug discovery?
 
 **Why it interests us:** …
 
@@ -29,15 +30,19 @@ Record the source, date, exact query, any filters and why you kept or set aside 
 
 | Date and source | Query or discovery route | Filters | Decision and reason | Paper link or identifier |
 |---|---|---|---|---|
-|Google Scholar | "AI and Big Data in drug discovery" | I set the publish year to 2022, then 2025 to ensure I get recent results | ... | https://doi.org/10.1021/acsomega.5c00549 |
+|Google Scholar | "AI and Big Data in drug discovery" | Set the publish year as 2022, then 2025 to ensure I get recent articles | ... | https://doi.org/10.1021/acsomega.5c00549 |
+|Google Scholar | ("artificial intelligence" OR "machine learning") AND "drug discovery" AND ("hype vs reality" OR "critical review" OR "systematic review") | filter search between 2024 until 2026|...|https://doi.org/10.1038/s41573-026-01496-2|
+|pubmed | ("drug discovery" OR "pharmacology") AND ("AI" OR "big data") | Publication date no more than 5 years |...| https://doi.org/10.1111/bcp.15930
+
 
 **Illustrative examples, not actual search results:**
 
 | Source | Query or route | What an entry might explain |
 |---|---|---|
-| Google Scholar | “requirements engineering” “machine learning” survey | We looked for an overview of machine learning for requirements engineering (ML4RE) |
-| Google Scholar | “requirements classification” “machine learning” | We narrowed the search to classifying requirements from text |
-| A relevant paper’s reference list | One earlier method paper | This method provides a possible comparison for our topic |
+| Google Scholar |("artificial intelligence" OR "machine learning") AND "drug discovery" AND ("hype vs reality" OR "critical review" OR "systematic review")  | We narrowed the search to high-impact critical reviews evaluating real clinical trial success rates against AI hype |
+|pubmed |("drug discovery" OR "pharmacology") AND ("AI" OR "big data") |We expanded the search to clinical pharmacology literature |
+
+
 
 ## Initial bibliography
 
@@ -45,7 +50,10 @@ Suggested starting target: **one paper per team member**, including an overview 
 
 | Full reference and DOI or stable link | Relevance to our topic | Method or evidence noted | Reading status |
 |---|---|---|---|
-| https://doi.org/10.1021/acsomega.5c00549 | The paper examines a wide range of AI techniques used in the drug discovery pipeline, as well as their advantages, limitations and challenges. This offers a well rounded analyis and provides the evidence needed to answer the research topic's key concern. | … | Screened / partly read / read in full |
+| https://doi.org/10.1021/acsomega.5c00549 | … | … | Screened / partly read / read in full |
+|https://doi.org/10.1038/s41573-026-01496-2 |...|...|partly read |
+| https://doi.org/10.1111/bcp.15930 |...|...|partly read|
+
 
 ## Contribution log
 
@@ -53,14 +61,15 @@ Use an entry for **every team member**. Link to evidence in the shared document 
 
 | Member | Work completed | Evidence | Next responsibility |
 |---|---|---|---|
-| Precious Kiunga | Topic definition and justification. | Git push 'log' | … |
+| Precious Kiunga | … | … | … |
+| Yousef Abdah | partly read 2 and 3 | … | … |
 
 **Illustrative entries:**
 
 | Member | Work completed | Evidence | Next responsibility |
 |---|---|---|---|
-| Student A | Tested search terms | Search-log entries | Read the selected overview |
-| Student B | Screened two papers | Bibliography relevance notes | Follow a useful citation |
+| Precious Kiunga| scanned paper 1|... | Research in the field of AI and Big data in drug discovery|
+|Yousef Abdah| partly read  2 and 3  | ...| Research in the field of machine learning in drug discovery |
 
 Add rows for all members of your actual team. These examples do not prescribe fixed roles.
 
