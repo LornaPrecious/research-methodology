@@ -39,9 +39,9 @@ Record the source, date, exact query, any filters and why you kept or set aside 
 
 | Source | Query or route | What an entry might explain |
 |---|---|---|
-| Google Scholar | “requirements engineering” “machine learning” survey | We looked for an overview of machine learning for requirements engineering (ML4RE) |
-| Google Scholar | “requirements classification” “machine learning” | We narrowed the search to classifying requirements from text |
-| A relevant paper’s reference list | One earlier method paper | This method provides a possible comparison for our topic |
+| Google Scholar |("artificial intelligence" OR "machine learning") AND "drug discovery" AND ("hype vs reality" OR "critical review" OR "systematic review")  | We narrowed the search to high-impact critical reviews evaluating real clinical trial success rates against AI hype |
+|pubmed |("drug discovery" OR "pharmacology") AND ("AI" OR "big data") |We expanded the search to clinical pharmacology literature |
+
 
 
 ## Initial bibliography
