@@ -14,6 +14,7 @@ These are parts of the existing course grades. The examples below are formats fo
 **Team members:**
 
 Precious Lorna Mwendwa Kiunga
+Yousef Abdah
 
 **Working topic:**
 
@@ -30,6 +31,7 @@ Record the source, date, exact query, any filters and why you kept or set aside 
 | Date and source | Query or discovery route | Filters | Decision and reason | Paper link or identifier |
 |---|---|---|---|---|
 |Google Scholar | "AI and Big Data in drug discovery" | Set the publish year as 2022, then 2025 to ensure I get recent articles | ... | https://doi.org/10.1021/acsomega.5c00549 |
+|Google Scholar | ("artificial intelligence" OR "machine learning") AND "drug discovery" AND ("hype vs reality" OR "critical review" OR "systematic review") | filter search between 2024 until 2026|...|https://doi.org/10.1038/s41573-026-01496-2
 
 **Illustrative examples, not actual search results:**
 
