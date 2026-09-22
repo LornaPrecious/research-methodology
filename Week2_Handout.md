@@ -62,7 +62,7 @@ Use an entry for **every team member**. Link to evidence in the shared document 
 | Member | Work completed | Evidence | Next responsibility |
 |---|---|---|---|
 | Precious Kiunga | … | … | … |
-| Yousef Abdah | scanned paper 2 and 3 | … | … |
+| Yousef Abdah | partly read 2 and 3 | … | … |
 
 **Illustrative entries:**
 
