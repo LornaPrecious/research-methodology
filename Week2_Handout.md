@@ -51,8 +51,8 @@ Suggested starting target: **one paper per team member**, including an overview 
 | Full reference and DOI or stable link | Relevance to our topic | Method or evidence noted | Reading status |
 |---|---|---|---|
 | https://doi.org/10.1021/acsomega.5c00549 | The paper examines a wide range of AI techniques used in the drug discovery pipeline, as well as their advantages, limitations and challenges. This offers a well rounded analysis and provides the evidence needed to answer the research topic's key concern. | … | Screened
-|https://doi.org/10.1038/s41573-026-01496-2 |...|...|partly read |
-| https://doi.org/10.1111/bcp.15930 |...|...|partly read|
+|https://doi.org/10.1038/s41573-026-01496-2 |this paper explicitly evaluates whether AI tools are delivering on their promises or merely inflating industry expectations|...|partly read |
+| https://doi.org/10.1111/bcp.15930 |this paper emphasizes that AI tools must undergo rigorous, evidence-based clinical evaluation before they can safely transform healthcare practice.|...|partly read|
 
 
 ## Contribution log
@@ -64,14 +64,9 @@ Use an entry for **every team member**. Link to evidence in the shared document 
 | Precious Kiunga | Screened a paper, wrote the topic definition and justification | git logs | Research in the field of AI and Big data in drug discovery |
 | Yousef Abdah | Partly read two papers | git logs | Research in the field of machine learning in drug discovery |
 
-**Illustrative entries:**
 
-| Member | Work completed | Evidence | Next responsibility |
-|---|---|---|---|
-| Student A | Tested search terms | Search-log entries | Read the selected overview |
-| Student B | Screened two papers | Bibliography relevance notes | Follow a useful citation |
 
-Add rows for all members of your actual team. These examples do not prescribe fixed roles.
+
 
 ## Short report-back
 
