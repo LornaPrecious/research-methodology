@@ -14,11 +14,11 @@ These are parts of the existing course grades. The examples below are formats fo
 **Team members:**
 
 Precious Lorna Mwendwa Kiunga |
-Yousef Abdah |
+Yousef Abdah
 
 **Working topic:**
 
-Truth or Hype: What evidence supports AI , Machin Learning and Big Data's contribution to drug discovery?
+Truth or Hype: What evidence supports AI , Machine Learning and Big Data's contribution to drug discovery?
 
 **Why it interests us:** …
 
@@ -30,9 +30,9 @@ Record the source, date, exact query, any filters and why you kept or set aside 
 
 | Date and source | Query or discovery route | Filters | Decision and reason | Paper link or identifier |
 |---|---|---|---|---|
-|Google Scholar | "AI and Big Data in drug discovery" | Set the publish year as 2022, then 2025 to ensure I get recent articles | ... | https://doi.org/10.1021/acsomega.5c00549 |
-|Google Scholar | ("artificial intelligence" OR "machine learning") AND "drug discovery" AND ("hype vs reality" OR "critical review" OR "systematic review") | filter search between 2024 until 2026|...|https://doi.org/10.1038/s41573-026-01496-2|
-|pubmed | ("drug discovery" OR "pharmacology") AND ("AI" OR "big data") | Publication date no more than 5 years |...| https://doi.org/10.1111/bcp.15930
+|Google Scholar | "AI and Big Data in drug discovery" | I set the publish year to 2022, then 2025 to ensure I got recent results | It is a recent paper (2025) and has been cited by others. | https://doi.org/10.1021/acsomega.5c00549 |
+|Google Scholar | ("artificial intelligence" OR "machine learning") AND "drug discovery" AND ("hype vs reality" OR "critical review" OR "systematic review") | filter search between 2024 until 2026| Recent, relevant to the research topic and detailed |https://doi.org/10.1038/s41573-026-01496-2|
+|pubmed | ("drug discovery" OR "pharmacology") AND ("AI" OR "big data") | Publication date no more than 5 years | Comprehensive and has been cited by multiple other papers | https://doi.org/10.1111/bcp.15930
 
 
 **Illustrative examples, not actual search results:**
@@ -50,7 +50,7 @@ Suggested starting target: **one paper per team member**, including an overview 
 
 | Full reference and DOI or stable link | Relevance to our topic | Method or evidence noted | Reading status |
 |---|---|---|---|
-| https://doi.org/10.1021/acsomega.5c00549 | … | … | Screened / partly read / read in full |
+| https://doi.org/10.1021/acsomega.5c00549 | The paper examines a wide range of AI techniques used in the drug discovery pipeline, as well as their advantages, limitations and challenges. This offers a well rounded analyis and provides the evidence needed to answer the research topic's key concern. | … | Screened
 |https://doi.org/10.1038/s41573-026-01496-2 |...|...|partly read |
 | https://doi.org/10.1111/bcp.15930 |...|...|partly read|
 
@@ -61,15 +61,15 @@ Use an entry for **every team member**. Link to evidence in the shared document 
 
 | Member | Work completed | Evidence | Next responsibility |
 |---|---|---|---|
-| Precious Kiunga | … | … | … |
-| Yousef Abdah | partly read 2 and 3 | … | … |
+| Precious Kiunga | Screened a paper, wrote the topic definition and justification | git logs | Research in the field of AI and Big data in drug discovery |
+| Yousef Abdah | Partly read two papers | git logs | Research in the field of machine learning in drug discovery |
 
 **Illustrative entries:**
 
 | Member | Work completed | Evidence | Next responsibility |
 |---|---|---|---|
-| Precious Kiunga| scanned paper 1|... | Research in the field of AI and Big data in drug discovery|
-|Yousef Abdah| partly read  2 and 3  | ...| Research in the field of machine learning in drug discovery |
+| Student A | Tested search terms | Search-log entries | Read the selected overview |
+| Student B | Screened two papers | Bibliography relevance notes | Follow a useful citation |
 
 Add rows for all members of your actual team. These examples do not prescribe fixed roles.
 
