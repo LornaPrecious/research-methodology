@@ -18,7 +18,7 @@ Yousef Abdah
 
 **Working topic:**
 
-Truth or Hype: What evidence supports AI , Machine Learning and Big Data's contribution to drug discovery?
+Truth or Hype: What evidence supports AI and Big Data's contribution to drug discovery?
 
 **Why it interests us:** …
 
@@ -61,3 +61,5 @@ Use an entry for **every team member**. Link to evidence in the shared document 
 
 Be ready to name **one useful paper and explain why it fits your working topic**. The instructor may invite selected teams to share. This is part of the workshop, with no separate grade.
 
+
+Next week: Problem statement, RESEARCH QUESTIONS (CAN HAVE SEVERAL), LITERATURE COMPARATIVE TABLE, literature review (DRAFT)
