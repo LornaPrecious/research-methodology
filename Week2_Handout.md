@@ -32,6 +32,11 @@ There is no consistent standard to measure success in AI-assisted drug discovery
 
 How do AI-assisted drug discovery programs' reported success rates compare to traditional discovery pipelines over the past decade?
 
+**Objectives:**
+
+To evaluate the strength and consistency of evidence supporting AI and Big Data's contribution to drug discovery across different evidence tiers such as preclinical hit-rates, clinical trial progression and regulatory approval data.
+To identify the sources of inconsistency in how success is measured and reported across AI drug-discovery literature and how this inconsistency contributes to the gap between promotional claims and validated evidence.
+
 
 ## Search log
 
