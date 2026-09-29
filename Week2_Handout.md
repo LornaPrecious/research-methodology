@@ -20,9 +20,18 @@ Yousef Abdah
 
 Truth or Hype: What evidence supports AI and Big Data's contribution to drug discovery?
 
-**Why it interests us:** …
+**Why it interests us:**
 
 There has been endless headlines on AI's contribution to different sectors especially health. This has led to a windening gap between fact and fiction, with an increase in promotional claims that don't correlate with genuine technical progress. Our topic seeks to evaluate whether these technologies are actually advancing general drug discovery or is it just hype as seen in multiple other industries. 
+
+**Problem Statement:**
+
+There is no consistent standard to measure success in AI-assisted drug discovery - Different stakeholders point to FDA/EMA approvals, clinical trial progression, preclinical hit-rates, or expert consensus interchangeably, despite these representing very different stages of evidence. This inconsistency allows promotional claims to appear more validated than they are, since a preclinical hit-rate improvement can be cited with the same confidence as a regulatory approval, even though the two mean very different things.
+
+**Research Questions:**
+
+How do AI-assisted drug discovery programs' reported success rates compare to traditional discovery pipelines over the past decade?
+
 
 ## Search log
 
