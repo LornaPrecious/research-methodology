@@ -42,7 +42,7 @@ Record the source, date, exact query, any filters and why you kept or set aside 
 |Google Scholar | "AI and Big Data in drug discovery" | I set the publish year to 2022, then 2025 to ensure I got recent results | It is a recent paper (2025), relevant to the research topic and has been cited by others. | https://doi.org/10.1021/acsomega.5c00549 |
 |Google Scholar | ("artificial intelligence" OR "machine learning") AND "drug discovery" AND ("hype vs reality" OR "critical review" OR "systematic review") | filter search between 2024 until 2026, narrowed the search to high-impact critical reviews evaluating real clinical trial success rates against AI hype | Recent, relevant to the research topic and detailed |https://doi.org/10.1038/s41573-026-01496-2|
 |pubmed | ("drug discovery" OR "pharmacology") AND ("AI" OR "big data") | Publication date no more than 5 years, expanded the search to clinical pharmacology literature | Comprehensive and has been cited by multiple other papers | https://doi.org/10.1111/bcp.15930
-
+|Google Scholar | Researchs in the field of machine learning in drug discovery| filter search since 2026 |identify research gaps in AI drug discovery |https://doi.org/10.1016/j.lddd.2026.100341|
 
 
 ## Initial bibliography
@@ -54,6 +54,8 @@ Suggested starting target: **one paper per team member**, including an overview 
 | https://doi.org/10.1021/acsomega.5c00549 | The paper examines a wide range of AI techniques used in the drug discovery pipeline, as well as their advantages, limitations and challenges. This offers a well rounded analysis and provides the evidence needed to answer the research topic's key concern. | Systematic literature review (2019–2024) using a PICO-based search across PubMed, Scopus, Web of Science, and Google Scholar. Comparative analysis of AI/ML methods (deep learning, GNNs, transformers) across target identification, lead/hit optimization, ADMET-toxicity prediction, HTS, and drug repurposing. Peer-reviewed studies with clear AI model descriptions and validated end points (select high-relevance preprints considered case-by-case). | Partly read
 |https://doi.org/10.1038/s41573-026-01496-2 |This paper explicitly evaluates whether AI tools are delivering on their promises or merely inflating industry expectations. |...|partly read |
 | https://doi.org/10.1111/bcp.15930 |This paper emphasizes that AI tools must undergo rigorous, evidence-based clinical evaluation before they can safely transform healthcare practice. |...|partly read|
+| https://doi.org/10.1016/j.lddd.2026.100341 |use this review paper because it comprehensively summarizes five years of AI advancements in drug discovery, helping you quickly identify research gaps, understand clinical data pipelines, and strongly justify your master's thesis topic.|...|partly read|
+
 
 
 ## Contribution log
