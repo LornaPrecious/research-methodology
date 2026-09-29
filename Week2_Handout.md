@@ -28,7 +28,7 @@ There has been endless headlines on AI's contribution to different sectors espec
 
 There is no consistent standard to measure success in AI-assisted drug discovery - Different stakeholders point to FDA/EMA approvals, clinical trial progression, preclinical hit-rates, or expert consensus interchangeably, despite these representing very different stages of evidence. This inconsistency allows promotional claims to appear more validated than they are, since a preclinical hit-rate improvement can be cited with the same confidence as a regulatory approval, even though the two mean very different things.
 
-**Research Questions:**
+**Research Question:**
 
 How do AI-assisted drug discovery programs' reported success rates compare to traditional discovery pipelines over the past decade?
 
@@ -85,7 +85,8 @@ Use an entry for **every team member**. Link to evidence in the shared document 
 |---|---|---|---|
 | Precious Kiunga | Screened a paper, wrote the topic definition and justification | git logs | Research in the field of AI and Big data in drug discovery |
 | Yousef Abdah | Partly read two papers | git logs | Research in the field of machine learning in drug discovery |
-| Yousef Abdah | Partly read one paper (4th)  and wrote related work darft and some parts from Literature Comparison Table | git logs | Research in the field of machine learning in drug discovery and complete reading papers that he has already added |
+| Yousef Abdah | Partly read one paper (4th)  and wrote related work darft and some parts from Literature Comparison Table | git logs | Research in the field of machine learning in drug discovery and complete reading papers that he has already added, research design, qualitative methods |
+| Precious Kiunga | partly read 2 papers, wrote the problem statement and research question, contributed to the comparison table  | git logs | Research methods, quantitative evaluation |
 
 
 ## Short report-back
