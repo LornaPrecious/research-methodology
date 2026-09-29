@@ -83,7 +83,7 @@ Use an entry for **every team member**. Link to evidence in the shared document 
 |---|---|---|---|
 | Precious Kiunga | Screened a paper, wrote the topic definition and justification | git logs | Research in the field of AI and Big data in drug discovery |
 | Yousef Abdah | Partly read two papers | git logs | Research in the field of machine learning in drug discovery |
-| Yousef Abdah | Partly read one paper (4th)  and wrote related work darft and some parts from Literature Comparison Table | git logs | Research in the field of machine learning in drug discovery and complete read papers that he has already added |
+| Yousef Abdah | Partly read one paper (4th)  and wrote related work darft and some parts from Literature Comparison Table | git logs | Research in the field of machine learning in drug discovery and complete reading papers that he has already added |
 
 
 ## Short report-back
