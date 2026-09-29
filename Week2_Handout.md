@@ -51,7 +51,7 @@ Suggested starting target: **one paper per team member**, including an overview 
 
 | Full reference and DOI or stable link | Relevance to our topic | Method or evidence noted | Reading status |
 |---|---|---|---|
-| https://doi.org/10.1021/acsomega.5c00549 | The paper examines a wide range of AI techniques used in the drug discovery pipeline, as well as their advantages, limitations and challenges. This offers a well rounded analysis and provides the evidence needed to answer the research topic's key concern. | … | Screened
+| https://doi.org/10.1021/acsomega.5c00549 | The paper examines a wide range of AI techniques used in the drug discovery pipeline, as well as their advantages, limitations and challenges. This offers a well rounded analysis and provides the evidence needed to answer the research topic's key concern. | Systematic literature review (2019–2024) using a PICO-based search across PubMed, Scopus, Web of Science, and Google Scholar. Comparative analysis of AI/ML methods (deep learning, GNNs, transformers) across target identification, lead/hit optimization, ADMET-toxicity prediction, HTS, and drug repurposing. Peer-reviewed studies with clear AI model descriptions and validated end points (select high-relevance preprints considered case-by-case). | Partly read
 |https://doi.org/10.1038/s41573-026-01496-2 |This paper explicitly evaluates whether AI tools are delivering on their promises or merely inflating industry expectations. |...|partly read |
 | https://doi.org/10.1111/bcp.15930 |This paper emphasizes that AI tools must undergo rigorous, evidence-based clinical evaluation before they can safely transform healthcare practice. |...|partly read|
 
