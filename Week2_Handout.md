@@ -54,6 +54,8 @@ Suggested starting target: **one paper per team member**, including an overview 
 | https://doi.org/10.1021/acsomega.5c00549 | The paper examines a wide range of AI techniques used in the drug discovery pipeline, as well as their advantages, limitations and challenges. This offers a well rounded analysis and provides the evidence needed to answer the research topic's key concern. | … | Screened
 |https://doi.org/10.1038/s41573-026-01496-2 |This paper explicitly evaluates whether AI tools are delivering on their promises or merely inflating industry expectations. |...|partly read |
 | https://doi.org/10.1111/bcp.15930 |This paper emphasizes that AI tools must undergo rigorous, evidence-based clinical evaluation before they can safely transform healthcare practice. |...|partly read|
+| https://doi.org/10.1016/j.lddd.2026.100341 |use this review paper because it comprehensively summarizes five years of AI advancements in drug discovery, helping you quickly identify research gaps, understand clinical data pipelines, and strongly justify your master's thesis topic.|...|partly read|
+
 
 
 ## Contribution log
