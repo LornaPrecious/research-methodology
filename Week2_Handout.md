@@ -55,7 +55,7 @@ Suggested starting target: **one paper per team member**, including an overview 
 |https://doi.org/10.1038/s41573-026-01496-2 |This paper explicitly evaluates whether AI tools are delivering on their promises or merely inflating industry expectations. |...|partly read |
 | https://doi.org/10.1111/bcp.15930 |This paper emphasizes that AI tools must undergo rigorous, evidence-based clinical evaluation before they can safely transform healthcare practice. |...|partly read|
 | https://doi.org/10.1016/j.lddd.2026.100341 |use this review paper because it comprehensively summarizes five years of AI advancements in drug discovery, helping you quickly identify research gaps, understand clinical data pipelines, and strongly justify your master's thesis topic.|...|partly read|
-
+| https://doi.org/10.1007/s13755-026-00433-2 |Offers a direct quantitative comparison of AI and traditional drug discovery success rates (Phase I), while its finding on weak FDA demographic/study-design reporting reinforces our problem statement that current evidence standards allow inflated claims to appear more validated than they are.|Critical review across PubMed, Google Scholar, IEEE Xplore and ACM Digital Library, targeted review of regulatory documents (FDA, European Commission) and industry reports|partly read|
 
 
 ## A Literature Comparison Table
