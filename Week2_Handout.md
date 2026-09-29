@@ -92,6 +92,3 @@ Use an entry for **every team member**. Link to evidence in the shared document 
 ## Short report-back
 
 Be ready to name **one useful paper and explain why it fits your working topic**. The instructor may invite selected teams to share. This is part of the workshop, with no separate grade.
-
-
-Next week: Problem statement, RESEARCH QUESTIONS (CAN HAVE SEVERAL), LITERATURE COMPARATIVE TABLE, literature review (DRAFT)
