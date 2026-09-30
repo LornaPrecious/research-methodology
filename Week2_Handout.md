@@ -32,9 +32,11 @@ There is no consistent standard to measure success in AI-assisted drug discovery
 
 How do AI-assisted drug discovery programs' reported success rates compare to traditional discovery pipelines over the past decade?
 
+How is success measured in drug discovery programs (AI and traditional) to ensure credibility? 
+
 **Objectives:**
 
-To evaluate the strength and consistency of evidence supporting AI and Big Data's contribution to drug discovery across different evidence tiers such as preclinical hit-rates, clinical trial progression and regulatory approval data.
+To evaluate the strength and consistency of evidence supporting AI and Big Data's contribution to drug discovery across different evidence tiers such as preclinical hit-rates, clinical trial progression and regulatory approval data.<br>
 To identify the sources of inconsistency in how success is measured and reported across AI drug-discovery literature and how this inconsistency contributes to the gap between promotional claims and validated evidence.
 
 
@@ -81,6 +83,18 @@ Recent advancements in artificial intelligence (AI) and machine learning (ML) ha
 Despite the high enthusiasm surrounding AI in pharma, Bender et al. (2026) provide a necessary, critical perspective on the current state of the field, highlighting a persistent gap between industry "hype" and tangible clinical outcomes. They emphasize that identifying a potent binding ligand is profoundly different from discovering a safe, viable drug. While modern AI algorithms excel at optimizing binding affinity, they frequently fail to account for complex *in vivo* factors such as toxicity, pharmacokinetics (PK), and ADME (absorption, distribution, metabolism, and excretion) properties. Bender et al. argue that the high failure rate of AI-generated compounds often stems from an insufficient focus on clinical translation during initial model development, as well as the underspecification of computational models when dealing with conditional life science data. 
 
 To address these limitations, recent literature has championed specific AI-driven paradigms that bypass traditional bottlenecks, such as ligand-centric AI. Research published in 2026 demonstrates how ligand-based QSAR modeling and virtual screening can accelerate drug design even in the absolute absence of target structural data. The successful progression of AI-discovered candidates, such as Rentosertib, into clinical trials with positive safety profiles suggests that overcoming these data limitations is highly feasible. Collectively, these studies indicate that while AI offers unprecedented speed in hit-to-lead discovery, future computational frameworks must integrate rigorous clinical pharmacology constraints to ensure that computational predictions safely translate into efficacious human therapeutics.
+
+
+## Methods Draft
+
+Theoretical methodology 
+
+Evaluation
+Qualitative - Peer reviewed papers, ensuring reputable sources, expert consensus
+
+Quantitative - Measurable upto date evidence eg
+eg.' Phase I clinical trial success rates of 80–90%, compared to a historical average of 40–65% for conventionally discovered drugs '
+
 
 ## Contribution log
 
