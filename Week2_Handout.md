@@ -104,6 +104,7 @@ We conducted literature searches across Google Scholar, PubMed, Scopus, Web of S
 **Inclusion and Exclusion Criteria**<br>
 Included sources comprised peer-reviewed systematic and critical reviews of AI and Big Data in drug discovery, primary studies reporting quantitative AI/ML performance metrics, and regulatory/industry reports providing corroborating quantitative data on AI-enabled drug development for instance FDA device clearance statistics and verified clinical trial registrations. Excluded sources comprised opinion pieces or editorials without empirical groundin, studies focused solely on AI in diagnostics or medical devices without a direct drug-discovery application, non-English-language publications, and preprints.
 
+# Evaluation Plan
 
 
 ## Contribution log
