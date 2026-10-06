@@ -74,6 +74,7 @@ Suggested starting target: **one paper per team member**, including an overview 
 | **Artificial intelligence and machine learning for clinical pharmacology**<br>*(DOI: 10.1111/bcp.15930)* | How can AI and ML be practically applied within clinical pharmacology? | Systematic evaluation and comparison of AI systems applied directly to problem resolutions. | Real-world clinical pharmacology literature and clinical case resolutions (e.g., evaluating 4 AI systems across 30 real clinical cases). | Demonstrates the practical capability of AI systems when applied directly to real-world clinical pharmacological cases. | *Limits:* Dependent on clinical data quality and availability.<br>*Future:* Expansion of direct clinical application evaluations. | Bridges the gap between early computational discovery and later-stage clinical pharmacological validation. |
 | **Artificial intelligence and machine learning in drug discovery: From lead discovery to clinical validation (2020–2025)**<br>*(DOI: 10.1016/j.lddd.2026.100341)* | How does AI drive drug design from lead discovery to clinical validation, specifically using ligand-centric AI? | Review of ligand-centric AI, QSAR modeling, and virtual screening from 2020–2025. | Clinical candidates advancing through trials without the need for initial target structural data. | The absence of target structural data no longer impedes the discovery of medicines; AI-discovered candidates (like Rentosertib) are advancing through trials with positive safety and efficacy. | *Limits:* Focused on the 2020-2025 timeframe.<br>*Future:* Suggests a future where ligand-centric AI completely bypasses the need for structural data. | Offers a concrete, proven methodology (ligand-based design) to overcome structural data bottlenecks in early discovery. |
 | **Big data in healthcare and medicine revisited: design and managerial challenges in the age of artificial intelligence**<br>*https://doi.org/10.1007/s13755-026-00433-2* | Revisits the authors' 2014 "4Vs" big data framework a decade later, examining design and managerial challenges in healthcare AI, spanning precision medicine, drug discovery, public health surveillance and clinical trials. | Critical review across PubMed, Google Scholar, IEEE Xplore and ACM Digital Library, targeted review of regulatory documents (FDA, European Commission) and industry reports | Draws on landmark developments, FDA AI/ML device clearance data, LLM/agentic AI literature and drug discovery case studies, prioritizes 2024–2025 sources for emerging technologies.| Directly relevant quantitative finding like AI-designed drug candidates achieved Phase I clinical trial success rates of 80–90%, compared to a historical average of 40–65% for conventionally discovered drugs, FDA-cleared AI medical devices grew from fewer than 10 (2015) to over 1,200 (mid-2025), pharmaceutical-AI partnerships rose 30% from 2022–2024.| As a critical (not systematic) review, coverage may not be exhaustive and is subject to selection bias. Nearly half of FDA-cleared AI devices omit study design details, 95% fail to report demographic data, and only 1.6% report randomized clinical trial data which shows a significant evidentiary gap in current AI regulatory clearance.| Offers a direct quantitative comparison of AI and traditional drug discovery success rates (Phase I), while its finding on weak FDA demographic/study-design reporting reinforces our problem statement that current evidence standards allow inflated claims to appear more validated than they are. |
+| **The Intersection of Artificial Intelligence and Big Data in Drug Discovery: A Review of Current Trends and Future Implications**<br>*10.4103/mtsp.mtsp_14_23* | . |  | .| | .| . |
 
 
 # Initial Related Work Draft
@@ -85,15 +86,21 @@ Despite the high enthusiasm surrounding AI in pharma, Bender et al. (2026) provi
 To address these limitations, recent literature has championed specific AI-driven paradigms that bypass traditional bottlenecks, such as ligand-centric AI. Research published in 2026 demonstrates how ligand-based QSAR modeling and virtual screening can accelerate drug design even in the absolute absence of target structural data. The successful progression of AI-discovered candidates, such as Rentosertib, into clinical trials with positive safety profiles suggests that overcoming these data limitations is highly feasible. Collectively, these studies indicate that while AI offers unprecedented speed in hit-to-lead discovery, future computational frameworks must integrate rigorous clinical pharmacology constraints to ensure that computational predictions safely translate into efficacious human therapeutics.
 
 
+
 ## Methods Draft
 
-Theoretical methodology 
+INCASE WE DON'T CHANGE THE TOPIC/ RESEARCH TYPE/METHOD, I STARTED WORKING ON THIS - CHECK WEEK 4 PPT
 
-Evaluation
-Qualitative - Peer reviewed papers, ensuring reputable sources, expert consensus
 
-Quantitative - Measurable upto date evidence eg
-eg.' Phase I clinical trial success rates of 80–90%, compared to a historical average of 40–65% for conventionally discovered drugs '
+
+This review employs a tiered, critical literature synthesis methodology to evaluate the strength and consistency of evidence supporting AI and Big Data's contribution to drug discovery. 
+
+Search Strategy and Data Sources
+We conducted literature searches across Google Scholar, PubMed, Scopus, Web of Science, and ScienceDirect. Search strings combined boolean operators (AND/OR) across core terms including ("artificial intelligence" OR "machine learning" OR "big data") AND ("drug discovery" OR "drug development" OR "pharmaceutical research" OR "clinical pharmacology") AND ("hype" OR "critical review" OR "clinical trial success" OR "evidence"), supplemented by targeted searches for specific terms identified during initial screening such as "Phase I success rate", "FDA AI device clearance", "ligand-centric AI", "ADMET prediction". Searches were restricted to English-language publications from 2019 to 2026, reflecting the recency of the underlying technological developments.
+
+Inclusion and Exclusion Criteria
+Included sources comprised peer-reviewed systematic and critical reviews of AI and Big Data in drug discovery, primary studies reporting quantitative AI/ML performance metrics, and regulatory/industry reports providing corroborating quantitative data on AI-enabled drug development for instance FDA device clearance statistics and verified clinical trial registrations. Excluded sources comprised opinion pieces or editorials without empirical groundin, studies focused solely on AI in diagnostics or medical devices without a direct drug-discovery application, non-English-language publications, and preprints.
+
 
 
 ## Contribution log
@@ -106,7 +113,7 @@ Use an entry for **every team member**. Link to evidence in the shared document 
 | Yousef Abdah | Partly read two papers | git logs | Research in the field of machine learning in drug discovery |
 | Yousef Abdah | Partly read one paper (4th)  and wrote related work darft and some parts from Literature Comparison Table | git logs | Research in the field of machine learning in drug discovery and complete reading papers that he has already added, research design, qualitative evaluation |
 | Precious Kiunga | partly read 2 papers, wrote the problem statement and research question, contributed to the comparison table  | git logs | Research methods, quantitative evaluation |
-
+| Precious Kiunga | partly read 1 additional paper, drafted the methods draft, contributed to the comparison table  | git logs | .. |
 
 ## Short report-back
 

@@ -6,3 +6,7 @@ https://pubs.acs.org/acsodf/article/10/23/23889/3654520/AI-Driven-Drug-Discovery
 
 https://link.springer.com/article/10.1007/s13755-026-00433-2#citeas
 //Big data in healthcare and medicine revisited: design and managerial challenges in the age of artificial intelligence
+
+
+https://www.ovid.com/jnls/mtsp/fulltext/10.4103/mtsp.mtsp_14_23~the-intersection-of-artificial-intelligence-and-big-data-in 
+//The Intersection of Artificial Intelligence and Big Data in Drug Discovery: A Review of Current Trends and Future Implications
