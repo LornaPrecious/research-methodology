@@ -98,10 +98,10 @@ INCASE WE DON'T CHANGE THE TOPIC/ RESEARCH TYPE/METHOD, I STARTED WORKING ON THI
 
 This review employs a tiered, critical literature synthesis methodology to evaluate the strength and consistency of evidence supporting AI and Big Data's contribution to drug discovery. 
 
-Search Strategy and Data Sources
+**Search Strategy and Data Sources** <br>
 We conducted literature searches across Google Scholar, PubMed, Scopus, Web of Science, and ScienceDirect. Search strings combined boolean operators (AND/OR) across core terms including ("artificial intelligence" OR "machine learning" OR "big data") AND ("drug discovery" OR "drug development" OR "pharmaceutical research" OR "clinical pharmacology") AND ("hype" OR "critical review" OR "clinical trial success" OR "evidence"), supplemented by targeted searches for specific terms identified during initial screening such as "Phase I success rate", "FDA AI device clearance", "ligand-centric AI", "ADMET prediction". Searches were restricted to English-language publications from 2019 to 2026, reflecting the recency of the underlying technological developments.
 
-Inclusion and Exclusion Criteria
+**Inclusion and Exclusion Criteria**<br>
 Included sources comprised peer-reviewed systematic and critical reviews of AI and Big Data in drug discovery, primary studies reporting quantitative AI/ML performance metrics, and regulatory/industry reports providing corroborating quantitative data on AI-enabled drug development for instance FDA device clearance statistics and verified clinical trial registrations. Excluded sources comprised opinion pieces or editorials without empirical groundin, studies focused solely on AI in diagnostics or medical devices without a direct drug-discovery application, non-English-language publications, and preprints.
 
 
