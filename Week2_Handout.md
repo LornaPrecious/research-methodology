@@ -114,7 +114,7 @@ Use an entry for **every team member**. Link to evidence in the shared document 
 | Yousef Abdah | Partly read one paper (4th)  and wrote related work darft and some parts from Literature Comparison Table | git logs | Research in the field of machine learning in drug discovery and complete reading papers that he has already added, research design, qualitative evaluation |
 | Precious Kiunga | partly read 2 papers, wrote the problem statement and research question, contributed to the comparison table  | git logs | Research methods, quantitative evaluation |
 | Precious Kiunga | partly read 1 additional paper, drafted the methods draft, contributed to the comparison table  | git logs | Document ethical choices and AI use |
-
+| Yousef Abdah | Partly read  paper and transfer work to overleaf and LaTex | git logs | fully read papers and complete working on paper using LaTex  |
 ## Short report-back
 
 Be ready to name **one useful paper and explain why it fits your working topic**. The instructor may invite selected teams to share. This is part of the workshop, with no separate grade.
