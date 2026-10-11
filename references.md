@@ -14,3 +14,6 @@ https://www.ovid.com/jnls/mtsp/fulltext/10.4103/mtsp.mtsp_14_23~the-intersection
 
 https://www.mdpi.com/1424-8247/19/6/916
 //AI in Drug Discovery: Clinical Failures, Regulatory Reality, and the Validation Crisis Behind the Hype
+
+https://www.sciencedirect.com/science/article/pii/S0169409X25002479
+//Small data, big challenges: Machine- and deep-learning strategies for data-limited drug discovery
