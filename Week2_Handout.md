@@ -108,23 +108,7 @@ For qualitative evaluation, we assessed expert commentary and descriptive result
 
 In contrast, quantitative evaluation is applicable to numerical assertions and supporting data. We stuructred our evaluation on four key metrics, (a) the precise figure and its unit or scope, (b) the presence of a baseline, (c) if the underlying condition is real-world, hypothetical, benchmark or retrospective, and lastly the sample size or data scale for each extracted quantitative result. For instance, Raghupathi and Raghupathi, (2026) note that AI-discovered drug candidates show Phase I clinical success rates of 80–90%, compared to a historical baseline of 40–65% for conventionally discovered compounds.
 
-
-## Contribution log
-
-Use an entry for **every team member**. Link to evidence in the shared document or repository, and update the log as work progresses.
-
-| Member | Work completed | Evidence | Next responsibility |
-|---|---|---|---|
-| Precious Kiunga | Screened a paper, wrote the topic definition and justification | git logs | Research in the field of AI and Big data in drug discovery |
-| Yousef Abdah | Partly read two papers | git logs | Research in the field of machine learning in drug discovery |
-| Yousef Abdah | Partly read one paper (4th)  and wrote related work darft and some parts from Literature Comparison Table | git logs | Research in the field of machine learning in drug discovery and complete reading papers that he has already added, research design, qualitative evaluation |
-| Precious Kiunga | partly read 2 papers, wrote the problem statement and research question, contributed to the comparison table  | git logs | Research methods, quantitative evaluation |
-| Precious Kiunga | partly read 1 additional paper, drafted the methods draft, contributed to the comparison table  | git logs | Document ethical choices and AI use |
-| Yousef Abdah | Partly read  paper and transfer work to overleaf and LaTex | git logs | fully read papers and complete working on paper using LaTex  |
-| Yousef Abdah | fully read all pappers and write results in latex| git logs | finish paper and work on presentaion |
-| Precious Kiunga | Added a paper, read all papers, contributed to discussions and ethics| git logs | Finish paper |
 ## Short report-back
 
 Be ready to name **one useful paper and explain why it fits your working topic**. The instructor may invite selected teams to share. This is part of the workshop, with no separate grade.
 
--MAKE THE CONTRIBUTION 'PART' ITS OWN FILE
